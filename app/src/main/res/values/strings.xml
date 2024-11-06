@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">LatihanUTS3</string>
+    <string name="name_ex">Cole Palmer</string>
+    <string name="pos_ex">Midfielder</string>
+    <string name="desc_ex">Cole Jermaine Palmer (born 6 May 2002) is an English professional footballer who plays as an attacking
+        midfielder or winger for Premier League club Chelsea and the England national team. Known for his dribbling,
+        playmaking and composure, he is regarded as one of the best young players in Europe.</string>
+
+    <string-array name="player_name">
+        <item>Cole Palmer</item>
+        <item>Enzo Fernandes</item>
+        <item>Joao Felix</item>
+        <item>Mykhailo Mudryk</item>
+        <item>Nicholas Jackson</item>
+        <item>Noni Madueke</item>
+        <item>Pedro Neto</item>
+        <item>Reece James</item>
+        <item>Filip Jorgensen</item>
+        <item>Marc Cucurella</item>
+        <item>Moises Caicedo</item>
+        <item>Tosin Adarabioyo</item>
+    </string-array>
+
+    <string-array name="player_desc">
+        <item>Cole Jermaine Palmer (born 6 May 2002) is an English professional footballer who plays as an attacking
+        midfielder or winger for Premier League club Chelsea and the England national team. Known for his dribbling,
+        playmaking and composure, he is regarded as one of the best young players in Europe.</item>
+        <item>Enzo Jeremías Fernández (born 17 January 2001), often referred to as simply Enzo, is an Argentine professional
+            footballer who plays as a midfielder for Premier League club Chelsea and the Argentina national team. Primarily a central midfielder,
+            he is also capable of playing as a defensive or attacking midfielder.</item>
+        <item>João Félix Sequeira (Portuguese pronunciation: [ʒuˈɐ̃w ˈfɛliks]; born 10 November 1999) is a Portuguese professional
+            footballer who plays as an attacking midfielder or forward
+            for Premier League club Chelsea and the Portugal national team.</item>
+        <item>Mykhailo Petrovych Mudryk (Ukrainian: Миха́йло Петро́вич Му́дрик; born 5 January 2001) is a Ukrainian professional footballer
+            who plays as a winger for Premier
+            League club Chelsea and the Ukraine national football team.</item>
+        <item>Nicolas Jackson (born 20 June 2001) is a Gambian-born Senegalese professional footballer
+            who plays as a striker for Premier League club Chelsea and for the Senegal national team.</item>
+        <item>Chukwunonso Tristan "Noni" Madueke (born 10 March 2002) is an English professional footballer
+            who plays as a winger for Premier League club Chelsea and the England national team.</item>
+        <item>Pedro Lomba Neto (European Portuguese: [ˈpeðɾu ˈnɛtu]; born 9 March 2000) is a Portuguese professional footballer who
+            plays as a winger for Premier League club Chelsea and the Portugal national team.</item>
+        <item>Reece Lewis James (born 8 December 1999) is an English professional footballer who plays as a right-back
+            for Premier League club Chelsea, who he captains, and the England national team.</item>
+        <item>Filip Jörgensen (born 16 April 2002) is a Swedish-Danish professional footballer
+            who plays as a goalkeeper for Premier League club Chelsea.</item>
+        <item>Marc Cucurella Saseta (born 22 July 1998) is a Spanish professional footballer who plays as a left-back or
+            left wing-back for Premier League club Chelsea and the Spain national team.</item>
+        <item>Moisés Isaac Caicedo Corozo (born 2 November 2001) is an Ecuadorian professional footballer who plays as a
+            defensive midfielder for Premier League club Chelsea and the Ecuador national team.</item>
+        <item>Abdul-Nasir Oluwatosin Oluwadoyinsolami Adarabioyo (born 24 September 1997), sometimes known mononymously as Tosin,
+            is an English professional footballer who plays as a centre-back for Premier League club Chelsea.</item>
+
+    </string-array>
+
+    <string-array name="player_position">
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Forward</item>
+        <item>Forward</item>
+        <item>Forward</item>
+        <item>Midfielder</item>
+        <item>Defense</item>
+        <item>GoalKeeper</item>
+        <item>Defense</item>
+        <item>Midfielder</item>
+        <item>Defense</item>
+    </string-array>
+</resources>
